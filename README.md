@@ -1,4 +1,4 @@
-# Finance STuff Series - PF_MSR
+# Finance Stuff Series - PF_MSR
 
 The personal finance series represents my effort to maintain a record of my financial situation. Through the creation of tools, I aim to analyze and comprehend my expenditure patterns.
 
