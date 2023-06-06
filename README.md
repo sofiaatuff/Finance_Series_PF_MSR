@@ -1,4 +1,5 @@
-# Finance STuff Series - PF_MSR
+# Finance Series: Personal Finance 
+## 1. Monthly Spending Reivew
 
 The personal finance series represents my effort to maintain a record of my financial situation. Through the creation of tools, I aim to analyze and comprehend my expenditure patterns.
 
