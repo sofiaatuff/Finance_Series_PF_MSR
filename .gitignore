@@ -1,5 +1,6 @@
 # ignore all .txt files
 *.txt
 *.xlsx
-*.csv
+data/*.csv
 notebook/
+data/formatted_activity.csv
