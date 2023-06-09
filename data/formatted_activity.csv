@@ -21,10 +21,10 @@ Date,Description,Card Member,Amount,Category
 04/10/2023,LA CITY PARKING,CT,1.0,Other-Government Services
 04/10/2023,LA CITY PARKING,CT,1.0,Other-Government Services
 04/10/2023,LA CITY PARKING,CT,1.0,Other-Government Services
-04/10/2023,ONLINE PAYMENT -,CT,-4390.84,
+04/10/2023,ONLINE PAYMENT -,CT,0.0,
 04/09/2023,PAYPAL *ROCKAUTOLLC 6086611376,CT,16.03,Transportation-Auto Services
-04/09/2023,"PEACOCK TV, LLC",CT,-5.0,Communications-Cable & Internet Comm
-04/09/2023,"PEACOCK TV, LLC",CT,-4.99,Communications-Cable & Internet Comm
+04/09/2023,"PEACOCK TV, LLC",CT,0.0,Communications-Cable & Internet Comm
+04/09/2023,"PEACOCK TV, LLC",CT,0.0,Communications-Cable & Internet Comm
 04/08/2023,AMAZON MARKEPLACE NA,ST,12.44,Merchandise & Supplies-Internet Purchase
 04/08/2023,AMAZON.COM AMZN.COM/BILL WA,ST,34.45,Merchandise & Supplies-Internet Purchase
 04/08/2023,CHEVRON 0202034/CHEVNORTH HOLLYWOOD,CT,66.57,Transportation-Fuel
@@ -51,8 +51,8 @@ Date,Description,Card Member,Amount,Category
 04/02/2023,VALLARTA DFE 09,CT,32.34,Merchandise & Supplies-Groceries
 04/02/2023,VONS #3083 3083,ST,42.02,Merchandise & Supplies-Groceries
 04/01/2023,PAYPAL *PATREON MEM000000000,ST,5.0,Entertainment-Theatrical Events
-03/31/2023,AMAZON MARKETPLACE NAMZN.COM/BILL,ST,-16.05,Merchandise & Supplies-Internet Purchase
-03/31/2023,AMAZON MARKETPLACE NAMZN.COM/BILL,ST,-10.72,Merchandise & Supplies-Internet Purchase
+03/31/2023,AMAZON MARKETPLACE NAMZN.COM/BILL,ST,0.0,Merchandise & Supplies-Internet Purchase
+03/31/2023,AMAZON MARKETPLACE NAMZN.COM/BILL,ST,0.0,Merchandise & Supplies-Internet Purchase
 03/31/2023,CHICK-FIL-A #03953 0SANTA,CT,10.13,Restaurant-Bar & Café
 03/31/2023,EXXONMOBIL 9764 TARZANA,CT,10.47,Transportation-Fuel
 03/31/2023,TARGET.COM 800-591-3869 MN,ST,17.24,Merchandise & Supplies-Internet Purchase
@@ -85,7 +85,7 @@ Date,Description,Card Member,Amount,Category
 03/23/2023,TMOBILE*AUTO PAY 800-937-8997,CT,203.52,Communications-Mobile Telecom
 03/23/2023,UBER,CT,61.96,Transportation-Taxis & Coach
 03/22/2023,CHICK-FIL-A #04003 0ORANGE,CT,9.46,Restaurant-Bar & Café
-03/22/2023,EBAY O*16-09766-4718SAN JOSE,CT,-61.31,Merchandise & Supplies-Internet Purchase
+03/22/2023,EBAY O*16-09766-4718SAN JOSE,CT,0.0,Merchandise & Supplies-Internet Purchase
 03/20/2023,TARGET.COM 800-591-3869 MN,ST,8.59,Merchandise & Supplies-Internet Purchase
 03/19/2023,DISCOVERY DIGITAL VEKNOXVILLE,ST,6.99,Communications-Cable & Internet Comm
 03/18/2023,CARL'S JR SANTA,CT,5.29,Restaurant-Bar & Café

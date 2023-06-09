@@ -50,9 +50,6 @@ plt.savefig('../plots/line_amt_cat.png')
 
 
 # Scatter Plot 
-# Convert 'Amount' column to string
-df['Amount_Str'] = df['Amount'].astype(str)
-
 # Assign numeric values to categories
 category_values = np.arange(len(df['Category'].unique()))
 category_mapping = {category: value for value, category in enumerate(df['Category'].unique())}
@@ -62,7 +59,7 @@ df['Category_Num'] = df['Category'].map(category_mapping)
 colors = np.where(df['Card Member'] == 'Member A', 'red', 'blue')
 
 plt.figure(figsize=(12, 12))
-plt.scatter(df['Category_Num'], df['Amount_Str'], c=colors)
+plt.scatter(df['Category_Num'], df['Amount'], c=colors)
 plt.xlabel('Category')
 plt.ylabel('Amount')
 plt.title('Amount vs. Category')
